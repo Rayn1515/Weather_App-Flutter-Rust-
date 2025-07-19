@@ -171,7 +171,7 @@ class _WeatherHomePageState extends State<WeatherHomePage> {
   WeatherApiResponse? _weatherData;
   bool _isLoading = false;
   String _errorMessage = '';
-  String _lastLocation = 'London';
+  String _lastLocation = 'Mumbai';
   bool _showingGpsLocation = false;
   
   @override
@@ -342,7 +342,7 @@ class _WeatherHomePageState extends State<WeatherHomePage> {
       return const CurrentWeather(
         tempC: 0,
         condition: 'Sunny',
-        location: 'London',
+        location: 'Mumbai',
         icon: WeatherIcons.day_sunny,
       );
     }
