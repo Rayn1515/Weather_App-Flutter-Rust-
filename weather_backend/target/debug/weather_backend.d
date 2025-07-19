@@ -1,0 +1,1 @@
+C:\Projects\app1\weather_backend\target\debug\weather_backend.exe: C:\Projects\app1\weather_backend\src\api.rs C:\Projects\app1\weather_backend\src\error.rs C:\Projects\app1\weather_backend\src\main.rs C:\Projects\app1\weather_backend\src\models.rs
